@@ -1,0 +1,32 @@
+{
+  "name": "fizz",
+  "version": "1.0.0",
+  "description": "a online markdown editor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --port 3001 --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangfengyi/fizz.git"
+  },
+  "keywords": [
+    "editor",
+    "markdown",
+    "yfy"
+  ],
+  "author": "yangfengyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangfengyi/fizz/issues"
+  },
+  "homepage": "https://github.com/yangfengyi/fizz#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "vue": "^3.2.33",
+    "vue-router": "^4.0.15"
+  }
+}
